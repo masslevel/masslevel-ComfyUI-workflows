@@ -1,2 +1,2 @@
-# masslevel-ComfyUI-workflows
+# masslevel ComfyUI workflows
 Collection of ComfyUI workflows
